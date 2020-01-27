@@ -1,0 +1,16 @@
+.fontype {
+  color: rgb(204, 116, 116);
+  font-family: italic;
+  font-size: 100px;
+  height: 50%;
+  width: 100%;
+  background-color: rgb(105, 88, 88);
+  top: 100%;
+}
+.bts {
+  height: "100px";
+  width: "80%";
+}
+.marg {
+  padding-top: 100px;
+}

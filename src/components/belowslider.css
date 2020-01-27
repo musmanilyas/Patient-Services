@@ -1,0 +1,8 @@
+.hov:hover {
+  color: rgb(125, 115, 218);
+  text-decoration: none;
+}
+.hov :visited {
+  color: green;
+ 
+}

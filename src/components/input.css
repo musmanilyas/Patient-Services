@@ -1,0 +1,12 @@
+.label1 {
+  padding: 10px;
+}
+.input1 {
+  margin: 10px 10px 10px 10px;
+  border-color: #ed1c24;
+  border-width: "3px";
+  width: 100%;
+}
+has-feedback > .input1:focus {
+  border-color: "yellow";
+}

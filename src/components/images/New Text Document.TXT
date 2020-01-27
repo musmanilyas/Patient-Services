@@ -1,0 +1,3 @@
+<NavLink className="nav-link btn btn-white btn-animate" to="/postAdd" style={{ marginTop: "20rem" , backgroundColor: "#e1d5ec" ,width:"350px" , height:"75px" , textAlign:"center",fontSize:"30px" ,  }}>
+                  Post an Add
+                </NavLink>
